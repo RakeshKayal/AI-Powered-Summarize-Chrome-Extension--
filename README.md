@@ -64,7 +64,7 @@ The **backend** handles API calls from the extension, communicates with **Google
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-repo/AI-Powered-Page-Summarize-Chrome-Extension--.git
+git clone https://github.com/your-repo/AI-Powered-Summarize-Chrome-Extension--.git
 cd Summary-Assistant-ext
 ```
 
@@ -131,5 +131,6 @@ GET http://localhost:8080/api/v1/ai/get
 
 
 ---
+
 
 
