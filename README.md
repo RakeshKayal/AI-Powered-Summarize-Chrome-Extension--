@@ -123,14 +123,16 @@ GET http://localhost:8080/api/v1/ai/get
 
 ## 📷 Screenshots
 
-<img width="1878" height="760" alt="image" src="https://github.com/user-attachments/assets/3ab24518-26cb-407b-aabe-f6524b96996b" />
-
-
----
+![Uploading Screenshot 2025-09-24 232929.png…]()
 
 
 
 ---
+
+
+
+---
+
 
 
 
