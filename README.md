@@ -121,17 +121,13 @@ GET http://localhost:8080/api/v1/ai/get
 
 ---
 
-## 📷 Screenshots
-
-![Uploading Screenshot 2025-09-24 232929.png…]()
-
-
 
 ---
 
 
 
 ---
+
 
 
 
